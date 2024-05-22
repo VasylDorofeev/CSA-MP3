@@ -1,4 +1,6 @@
 #2024 FRQ Question 1 
+
+
 ##This question is about...
 
 ##Struggles with this question...
