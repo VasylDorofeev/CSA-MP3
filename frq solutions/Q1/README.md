@@ -9,4 +9,4 @@
 * Some prior expeirnces that helped was using the math.random class as it would simulates a random amount of food being eaten each day and the random chance of a bear from eating the bird feeder.
 
 ## What I learned by doing this question...
-* 
+* I learned how to use multiple methods under one class to perform everything using only loops and if else statemnets
