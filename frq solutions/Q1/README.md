@@ -6,7 +6,7 @@
 * Some struggles I had with this question was trying to implement the random poosibilty of the bear eating from the birdfeeder.
 
 ## Prior expereiences that helped...
-*
+* Some prior expeirnces that helped was using the math.random class as it would simulates a random amount of food being eaten each day and the random chance of a bear from eating the bird feeder.
 
 ## What I learned by doing this question...
-*
+* 
