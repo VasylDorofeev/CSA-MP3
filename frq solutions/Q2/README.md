@@ -9,4 +9,4 @@
 * Some previous experiences that helped was making many differnt classes helping me prepare for writing classes from scratch.
 
 ## What I learned by doing this question...
-* I learned 
+* I learned how to create a class that works using mostly if else statements.
