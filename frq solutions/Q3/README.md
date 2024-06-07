@@ -9,4 +9,4 @@
 * Some prior experiences that helped me were previous array list problems where we would have to use a similar method to find if a word starts with the same charcater so I would use the same ideas I learned from those probelems here.
 
 ## What I learned by doing this question...
-*
+* I learned how to understand how to properly initalize a new arraylist.
