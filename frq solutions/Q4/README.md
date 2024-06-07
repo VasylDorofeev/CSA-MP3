@@ -6,7 +6,7 @@
 * 
 
 ## Prior expereiences that helped...
-*
+* Some expereiences that helped with this question was doing previous ap csa 2D array questions which helped me rember the code that I need to write to find the certian location in a specific row and colloumn.
 
 ## What I learned by doing this question...
 * I learned how to navigate the values in 2D arrays and what methods I can use to find certian values in the arrays.
